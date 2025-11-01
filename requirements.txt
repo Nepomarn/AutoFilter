@@ -8,3 +8,4 @@ aiohttp
 pyromod
 pytz
 python-dotenv
+imdbpy
