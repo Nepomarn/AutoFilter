@@ -1,8 +1,5 @@
 pyrogram
 tgcrypto
-pymongo
-umongo
-motor
 textblob
 aiohttp
 pyromod
